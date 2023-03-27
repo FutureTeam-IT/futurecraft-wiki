@@ -1,8 +1,13 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [😂 Test](test.md)
+## Network
 
-## Come iniziare
+* [FUTUrECRAFT](README.md)
 
-* [🌟 Spawn](come-iniziare/spawn.md)
+## REALMS
+
+* [Cos'è REALMS](realms/cose-realms.md)
+
+## ONEBLOCK
+
+* [Come Funziona?](oneblock/come-funziona.md)
